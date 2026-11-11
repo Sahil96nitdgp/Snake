@@ -30,8 +30,15 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add option="-std=c++17" />
 		</Compiler>
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.hpp" />
 		<Unit filename="MAIN.cpp" />
+		<Unit filename="Renderer.cpp" />
+		<Unit filename="Renderer.hpp" />
+		<Unit filename="Terminal.cpp" />
+		<Unit filename="Terminal.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

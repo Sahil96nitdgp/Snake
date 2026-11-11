@@ -1,2 +1,3 @@
-# Native macOS build output
+# Local build outputs
 /snake
+/snake_tests
